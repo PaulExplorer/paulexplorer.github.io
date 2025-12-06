@@ -51,19 +51,25 @@
           "name": "FamilyNestWeb",
           "link": "https://github.com/PaulExplorer/FamilyNestWeb",
           "description": "My current main project. A genealogy platform built with Rust & WASM, focused on performance.",
-          "image": ""
+          "image": "FamilyNestWeb.png"
         },
         {
           "name": "FamilyNest",
           "link": "https://github.com/PaulExplorer/FamilyNest",
           "description": "The original desktop version where I learned Rust system programming.",
-          "image": ""
+          "image": "FamilyNest.png"
         },
         {
           "name": "OeuvresTrack",
           "link": "https://github.com/PaulExplorer/OeuvresTrack",
           "description": "A tracking tool for movies and books with a custom backend.",
-          "image": ""
+          "image": "OeuvresTrack.png"
+        },
+        {
+          "name": "CubeGame2D",
+          "link": "https://github.com/PaulExplorer/CubeGame2D",
+          "description": "A 2D platformer game in C++. A beginner project.",
+          "image": "CubeGame2D.png"
         }
       ]
     },
@@ -130,19 +136,25 @@
           "name": "FamilyNestWeb",
           "link": "https://github.com/PaulExplorer/FamilyNestWeb",
           "description": "Mon projet actuel. Une plateforme de généalogie en Rust & WASM, axée sur la performance.",
-          "image": ""
+          "image": "FamilyNestWeb.png"
         },
         {
           "name": "FamilyNest",
           "link": "https://github.com/PaulExplorer/FamilyNest",
           "description": "La version bureau originale où j'ai appris la programmation système en Rust.",
-          "image": ""
+          "image": "FamilyNest.png"
         },
         {
           "name": "OeuvresTrack",
           "link": "https://github.com/PaulExplorer/OeuvresTrack",
           "description": "Un outil de suivi pour films et livres avec un backend personnalisé.",
-          "image": ""
+          "image": "OeuvresTrack.png"
+        },
+        {
+          "name": "CubeGame2D",
+          "link": "https://github.com/PaulExplorer/CubeGame2D",
+          "description": "Un jeu de parkour 2D en C++. Un projet de débutant.",
+          "image": "CubeGame2D.png"
         }
       ]
     },
