@@ -1,0 +1,160 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "projects": "Projects",
+      "lang_switch": "FR"
+    },
+    "hero": {
+      "title": "Hi, I'm PaulExplorer 👋",
+      "subtitle": "Self-taught Developer",
+      "description": "I started programming around age 12 during the COVID-19 lockdown. It quickly became a passion. I enjoy creating <b>software and automation scripts</b>. Although I often work on websites, my true preference lies in pure software development and scripting."
+    },
+    "timeline": {
+      "title": "My Coding Journey",
+      "items": [
+        {
+          "year": "12 years old",
+          "description": "I created my first website, a very simple one. I started tinkering with games in Python, learning the basics by analyzing other people's code."
+        },
+        {
+          "year": "13 years old",
+          "description": "Got interested in Java and game development. I made a Star Wars game to understand Object-Oriented Programming. I also coded many Discord bots in Python, including one using the GPT-3 API to reply to messages, and a voice interaction tool I later published: <a href='https://github.com/PaulExplorer/FriendsInPython' target='_blank'>FriendsInPython</a>."
+        },
+        {
+          "year": "14 years old",
+          "description": "Wanting to learn new things and understand memory management and native performance, I started C++. This led to <a href='https://github.com/PaulExplorer/CubeGame2D' target='_blank'>CubeGame2D</a>, a parkour game with levels."
+        },
+        {
+          "year": "15 years old",
+          "description": "Explored C# with a desktop music app and touched on mobile dev with Flutter. I also developed websites, such as the ancestor of FamilyNest and CineCheck, the predecessor to OeuvresTrack."
+        },
+        {
+          "year": "16 years old",
+          "description": "Built <a href='https://github.com/PaulExplorer/OeuvresTrack' target='_blank'>OeuvresTrack</a> to organize my library (movies, shows, books). It taught me web architecture but confirmed I prefer software logic over web UI management. I also created other advanced websites that are closed-source and currently offline."
+        },
+        {
+          "year": "17 years old",
+          "description": "Fell in love with Rust using the Bevy library. I created <b>FamilyNest</b> (desktop software) to improve my skills and make a useful tool for my family. Later, I recoded it for the web using WASM, improving the calculation engine to handle complex situations like inbreeding and remarriages, and rebuilding the interface from scratch: <a href='https://github.com/PaulExplorer/FamilyNestWeb' target='_blank'>FamilyNestWeb</a>."
+        }
+      ]
+    },
+    "skills": {
+      "title": "Skills & Technologies",
+      "main": "Python, Rust, Web Development, App Development, Scripting",
+      "other": "C++, Java, SQL, plus some C# and Dart. (Note: I am not a frontend specialist)"
+    },
+    "projects_page": {
+      "title": "Featured Projects",
+      "list": [
+        {
+          "name": "FamilyNestWeb",
+          "link": "https://github.com/PaulExplorer/FamilyNestWeb",
+          "description": "My current main project. A genealogy platform built with Rust & WASM, focused on performance.",
+          "image": ""
+        },
+        {
+          "name": "FamilyNest",
+          "link": "https://github.com/PaulExplorer/FamilyNest",
+          "description": "The original desktop version where I learned Rust system programming.",
+          "image": ""
+        },
+        {
+          "name": "OeuvresTrack",
+          "link": "https://github.com/PaulExplorer/OeuvresTrack",
+          "description": "A tracking tool for movies and books with a custom backend.",
+          "image": ""
+        }
+      ]
+    },
+    "about": {
+      "title": "About Me",
+      "items": [
+        "Completely self-taught and always learning.",
+        "I love building tools that solve real problems or are simply fun to make.",
+        "Even though I do web dev, I prefer the logic of native applications and automation.",
+        "I would like to participate more in open source, so I am open to collaboration."
+      ],
+      "footer_msg": "Thanks for stopping by! 😊"
+    }
+  },
+  "fr": {
+    "nav": {
+      "home": "Accueil",
+      "projects": "Projets",
+      "lang_switch": "EN"
+    },
+    "hero": {
+      "title": "Salut, je suis PaulExplorer 👋",
+      "subtitle": "Développeur autodidacte",
+      "description": "J'ai commencé la programmation vers 12 ans pendant le confinement du COVID-19. C'est vite devenu une passion. J'aime créer des <b>logiciels et des scripts d'automatisation</b>. Bien que je travaille souvent sur des sites web, ma vraie préférence va au développement logiciel pur et la création de scripts."
+    },
+    "timeline": {
+      "title": "Mon Parcours",
+      "items": [
+        {
+          "year": "12 ans",
+          "description": "J'ai créé mon premier site web, un projet très simple. J'ai commencé à bricoler des jeux en Python, apprenant les bases en analysant le code des autres."
+        },
+        {
+          "year": "13 ans",
+          "description": "Je me suis intéressé à Java et au développement de jeux. J'ai créé un jeu Star Wars pour comprendre la programmation orientée objet. J'ai aussi codé de nombreux bots Discord en Python, dont un utilisant l'API GPT-3 pour répondre aux messages et un outil vocal publié plus tard : <a href='https://github.com/PaulExplorer/FriendsInPython' target='_blank'>FriendsInPython</a>."
+        },
+        {
+          "year": "14 ans",
+          "description": "Voulant apprendre de nouvelles choses et comprendre la gestion mémoire ainsi que la performance native, je me suis mis au C++. Cela a mené à <a href='https://github.com/PaulExplorer/CubeGame2D' target='_blank'>CubeGame2D</a>, un jeu de parkour avec des niveaux."
+        },
+        {
+          "year": "15 ans",
+          "description": "J'ai exploré le C# avec une appli de bureau pour la musique et touché au mobile avec Flutter. J'ai aussi développé des sites internet, comme l'ancêtre de FamilyNest ou encore CineCheck, le prédécesseur de OeuvresTrack."
+        },
+        {
+          "year": "16 ans",
+          "description": "J'ai créé <a href='https://github.com/PaulExplorer/OeuvresTrack' target='_blank'>OeuvresTrack</a> pour organiser ma médiathèque. Cela m'a appris l'architecture web, mais a confirmé que je préfère la logique logicielle à la gestion d'interfaces. J'ai aussi créé d'autres sites web avancés (non open-source) qui plus en ligne."
+        },
+        {
+          "year": "17 ans",
+          "description": "Coup de foudre pour Rust avec la librairie Bevy. J'ai créé <b>FamilyNest</b> (logiciel de bureau) pour m'améliorer. Plus tard, je l'ai recodé pour le web avec WASM en améliorant le moteur de calcul pour gérer des cas complexes (consanguinité, remariages) et en refaisant l'interface : <a href='https://github.com/PaulExplorer/FamilyNestWeb' target='_blank'>FamilyNestWeb</a>."
+        }
+      ]
+    },
+    "skills": {
+      "title": "Compétences & Technologies",
+      "main": "Python, Rust, Développement Web, Développement d'Applis, Scripting",
+      "other": "C++, Java, SQL et un peu de C# et de Dart. (Note : Je ne suis pas spécialisé en frontend)"
+    },
+    "projects_page": {
+      "title": "Projets en Vedette",
+      "list": [
+        {
+          "name": "FamilyNestWeb",
+          "link": "https://github.com/PaulExplorer/FamilyNestWeb",
+          "description": "Mon projet actuel. Une plateforme de généalogie en Rust & WASM, axée sur la performance.",
+          "image": ""
+        },
+        {
+          "name": "FamilyNest",
+          "link": "https://github.com/PaulExplorer/FamilyNest",
+          "description": "La version bureau originale où j'ai appris la programmation système en Rust.",
+          "image": ""
+        },
+        {
+          "name": "OeuvresTrack",
+          "link": "https://github.com/PaulExplorer/OeuvresTrack",
+          "description": "Un outil de suivi pour films et livres avec un backend personnalisé.",
+          "image": ""
+        }
+      ]
+    },
+    "about": {
+      "title": "À Propos de Moi",
+      "items": [
+        "Complètement autodidacte et toujours en train d'apprendre.",
+        "J'adore créer des outils qui résolvent des problèmes réels ou qui sont simplement amusants à faire.",
+        "Même si je fais du web, je préfère la logique des applications natives et l'automatisation.",
+        "J'aimerais participer plus à l'open source, je suis donc ouvert à la collaboration."
+      ],
+      "footer_msg": "Merci d'être passé ! 😊"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PaulExplorer - Portfolio</title>
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/style.css') }}"
+    />
+  </head>
+  <body>
+    <header class="navbar">
+      <div class="container">
+        <a href="https://github.com/PaulExplorer" class="logo">PaulExplorer</a>
+        <nav>
+          <ul class="nav-links">
+            <li>
+              <a href="{{ url_for('home', lang=lang) }}"
+                >{{ content.nav.home }}</a
+              >
+            </li>
+            <li>
+              <a href="{{ url_for('projects', lang=lang) }}"
+                >{{ content.nav.projects }}</a
+              >
+            </li>
+          </ul>
+        </nav>
+        <a
+          href="{{ url_for(request.endpoint, lang=toggle_lang(lang)) }}"
+          class="lang-switch"
+          >{{ content.nav.lang_switch }}</a
+        >
+      </div>
+    </header>
+
+    <main class="main-content">{% block content %}{% endblock %}</main>
+
+    <footer class="footer">
+      <div class="container">
+        <p>{{ content.about.footer_msg }}</p>
+      </div>
+    </footer>
+  </body>
+</html>
