@@ -35,7 +35,7 @@
         },
         {
           "year": "17 years old",
-          "description": "Fell in love with Rust using the Bevy library. I created <b>FamilyNest</b> (desktop software) to improve my skills and make a useful tool for my family. Later, I recoded it for the web using WASM, improving the calculation engine to handle complex situations like inbreeding and remarriages, and rebuilding the interface from scratch: <a href='https://github.com/PaulExplorer/FamilyNestWeb' target='_blank'>FamilyNestWeb</a>."
+          "description": "Fell in love with Rust using the Bevy library. I created <a href='https://github.com/PaulExplorer/FamilyNest' target='_blank'>FamilyNest</a> (desktop software) to improve my skills and make a useful tool for my family. Later, I recoded it for the web using WASM, improving the calculation engine to handle complex situations like inbreeding and remarriages, and rebuilding the interface from scratch: <a href='https://github.com/PaulExplorer/FamilyNestWeb' target='_blank'>FamilyNestWeb</a>."
         }
       ]
     },
@@ -50,7 +50,7 @@
         {
           "name": "FamilyNestWeb",
           "link": "https://github.com/PaulExplorer/FamilyNestWeb",
-          "description": "My current main project. A genealogy platform built with Rust & WASM, focused on performance.",
+          "description": "My current main project. A genealogy platform built with Rust & WASM.",
           "image": "FamilyNestWeb.png"
         },
         {
@@ -62,7 +62,7 @@
         {
           "name": "OeuvresTrack",
           "link": "https://github.com/PaulExplorer/OeuvresTrack",
-          "description": "A tracking tool for movies and books with a custom backend.",
+          "description": "A minimalistic tracking tool for movies, series and books.",
           "image": "OeuvresTrack.png"
         },
         {
@@ -120,7 +120,7 @@
         },
         {
           "year": "17 ans",
-          "description": "Coup de foudre pour Rust avec la librairie Bevy. J'ai créé <b>FamilyNest</b> (logiciel de bureau) pour m'améliorer. Plus tard, je l'ai recodé pour le web avec WASM en améliorant le moteur de calcul pour gérer des cas complexes (consanguinité, remariages) et en refaisant l'interface : <a href='https://github.com/PaulExplorer/FamilyNestWeb' target='_blank'>FamilyNestWeb</a>."
+          "description": "Coup de foudre pour Rust avec la librairie Bevy. J'ai créé <a href='https://github.com/PaulExplorer/FamilyNest' target='_blank'>FamilyNest</a> (logiciel de bureau) pour m'améliorer. Plus tard, je l'ai recodé pour le web avec WASM en améliorant le moteur de calcul pour gérer des cas complexes (consanguinité, remariages) et en refaisant l'interface : <a href='https://github.com/PaulExplorer/FamilyNestWeb' target='_blank'>FamilyNestWeb</a>."
         }
       ]
     },
@@ -135,7 +135,7 @@
         {
           "name": "FamilyNestWeb",
           "link": "https://github.com/PaulExplorer/FamilyNestWeb",
-          "description": "Mon projet actuel. Une plateforme de généalogie en Rust & WASM, axée sur la performance.",
+          "description": "Mon projet actuel. Une plateforme de généalogie en Rust & WASM.",
           "image": "FamilyNestWeb.png"
         },
         {
@@ -147,7 +147,7 @@
         {
           "name": "OeuvresTrack",
           "link": "https://github.com/PaulExplorer/OeuvresTrack",
-          "description": "Un outil de suivi pour films et livres avec un backend personnalisé.",
+          "description": "Un outil minimaliste de suivi pour films, séries et livres.",
           "image": "OeuvresTrack.png"
         },
         {
